@@ -18,7 +18,7 @@ int x = 10;
 int *p = &x; //The pointer p receive the address of variable x
 
              //Note: To assign the variable adress into the pointer after declare it: p = &y
-             //     because *p after pointer declaring means to ccess the variable valor and change it.
+             //     because *p after pointer declaring means to ccess the variable's valor and change it.
 
 int main()
 {
